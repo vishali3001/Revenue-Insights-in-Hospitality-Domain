@@ -1,4 +1,3 @@
-Revenue-Insights-in-Hospitality-Domain
 The AtliQ Hospitality Revenue Analysis project aims to address the decline in market share and revenue faced by AtliQ Grands, a well-known hospitality company with multiple five-star hotels in India. A 3rd party service provider will be hired to provide insights from the company's historical data and to help regain market share and revenue.
 
 Key Responsibilities:
